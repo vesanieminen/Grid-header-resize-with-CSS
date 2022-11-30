@@ -1,5 +1,9 @@
 # Grid header resizing
 
+Resized the Grid header to have a smaller min-height:
+
+![Screenshot 2022-11-30 at 9 08 37](https://user-images.githubusercontent.com/108755/204730498-9843422c-7a50-49d0-9fdb-a59e31b466c9.png)
+
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
 It contains all the necessary configuration and some placeholder files to get you started.
 
